@@ -15,7 +15,7 @@ export default function Home() {
           </h1>
           <ul className="md:text-xl lg:text-2xl font-normal leading-normal max-w-full md:max-w-2xl lg:max-w-3xl xl:max-w-4xl list-disc space-y-2 mx-auto px-8">
             <li className="list-item">Use <a href="https://chatgpt.com/" target="_blank" rel="noopener" className="border-b-2 border-b-sky-500">ChatGPT</a> or alike to generate 3D image from text prompt “Create a 3D image model of a [object] with a white background”</li>
-            <li className="list-item">Convert to 3D model using <a href="https://www.meshy.ai/" target="_blank" rel="noopener" className="border-b-2 border-b-sky-500">Meshy.ai</a> in 2 steps:
+            <li className="list-item">Convert to 3D model using <a href="https://www.meshy.ai/?utm_source=referral-program&utm_medium=link&utm_content=XX102G" target="_blank" rel="noopener" className="border-b-2 border-b-sky-500">Meshy.ai</a> in 2 steps:
               <ol className="list-decimal mx-8">
                 <li className="list-item">Convert 2D PNG to generate 4 GLB models</li>
                 <li className="list-item">Choose the best looking model that suit your need and click on it to generate texture</li>
